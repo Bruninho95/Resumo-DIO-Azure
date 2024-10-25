@@ -52,5 +52,7 @@ nescessario abrir a porta 443 e a 8080 para ter acesso a maquina, liberada a por
 
  Neste laboratorio, é nos apresentado o shell para que possamos criar serviços por codigo, é um Powershell virtual, então é utilizando os comandos do windows, mas podemos escolher o bash, para usar como linux, os comandos são utilizados com inicial "az", na opção de CLI temos comandos padrões e como utiliza-los dentro do terminal. Dentro de Export Templates, podemos criar um JSON ou uma exportar esse modelos pra criar automações de um jeito mais rapido. Agora sobre o Azure Arc, ele cria e genrencia infraestruturas de serviço como banco de dados grupos de rede ou até um site, alem de gerenciar serviços de fora. 
 
+### Laboratorio 11 - Ferramentas de monitoramento do Azure
 
+Como ultimo laboratorio vamos ver a questão de monitoramento, utilizando o Azure Monitor, clicnando em maquinas virtuais podemos analizar os recursos dentro da maquina virtual, podemos ver os logs, metricas podemos ver as regiões que podem está com problemas, em service health, podemos agendar manutenções e alertas para os clientes, no advisor, ele nos gera recomendações segurança, e de redução de valores.
  
